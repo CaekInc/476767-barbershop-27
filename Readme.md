@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Юля Марта](https://up.htmlacademy.ru/htmlcss/27/user/1237807).
-
+* Студент: Александр Лошаков [https://up.htmlacademy.ru/htmlcss/27/user/476767]
+Наставник: Ксения Григорьева [https://htmlacademy.ru/profile/arctic_pie]
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
