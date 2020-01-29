@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Александр Лошаков](https://up.htmlacademy.ru/htmlcss/27/user/476767).
+* Студент: [Юля Марта](https://up.htmlacademy.ru/htmlcss/27/user/1237807).
 
 ---
 
@@ -17,7 +17,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/476767-barbershop-27) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/1237807-barbershop-27) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037894-3cff89c2-7bae-11e7-8bae-a640a044bb03.jpg">
 
